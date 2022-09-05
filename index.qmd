@@ -5,8 +5,8 @@ image: images/avatar.jpg
 about:
   template: trestles
   links:
-    - icon: "{{< fa linkedin >}}"
-      text: LinkedIn
+    - icon: linkedin #"{{< fa linkedin >}}"
+      text: "{{< fa linkedin >}} LinkedIn"
       url: "https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-0943a6a2/"
     # - text: Twitter
     #   icon: twitter
@@ -17,7 +17,7 @@ about:
     - text: Email
       url: "mtzgtzjesus@gmail.com"
     - text: Blog
-      url: "blog.html"
+      url: "blog.qmd"
     # - text: CV
     #   url: "martinez-cv.pdf"
 comments: false
