@@ -6,7 +6,7 @@ about:
   template: trestles
   links:
     - icon: linkedin #"{{< fa linkedin >}}"
-      text: "{{< fa linkedin >}} LinkedIn"
+      text: "LinkedIn"
       url: "https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-0943a6a2/"
     # - text: Twitter
     #   icon: twitter
@@ -78,9 +78,9 @@ I’m also interested in computational methods to analyze Multiplexed Immunofluo
 
 ## Education
 
-{{< fa graduation-cap >}} PhD in Applied Mathematics | 2010 - 2015  @ Iowa State University
+{{< fa graduation-cap >}} PhD in Applied Mathematics | 2010 - 2015 {{< fa map-pin >}} Iowa State University
 
-{{< fa graduation-cap >}} BS in Mathematics | 2006 - 2009  @ University of Texas Pan-American
+{{< fa graduation-cap >}} BS in Mathematics | 2006 - 2009 {{< fa map-pin >}} University of Texas Pan-American
 
 ## Interests
 
