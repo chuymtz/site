@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Jesus Martinez"
+date: "2022-08-29"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. 
+
+I'm still searching deep inside for the motivation to document things I find interesting and publish them. I've found it hard to stay motivated when using other media but Quarto has really impressed me. I began using it at work and it is surprisingly easy to use. 

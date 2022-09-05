@@ -1,0 +1,94 @@
+---
+title: "Jesús Martínez"
+subtitle: _Senior Analytics Engineer_
+image: images/avatar.jpg
+about:
+  template: trestles
+  links:
+    - icon: "{{< fa linkedin >}}"
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-0943a6a2/"
+    # - text: Twitter
+    #   icon: twitter
+    #   url: "https://twitter.com/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/chuymtz"
+    - text: Email
+      url: "mtzgtzjesus@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    # - text: CV
+    #   url: "martinez-cv.pdf"
+comments: false
+# listing:
+#   contents: posts
+#   sort: "date desc"
+#   type: default
+#   categories: true
+#   sort-ui: false
+#   filter-ui: false
+# page-layout: full
+# title-block-banner: true
+filters:
+   - lightbox
+lightbox: 
+  match: auto
+  effect: zoom
+---
+
+::: {.column-page}
+## Bio 
+
+Mathematical scientist with professional experience in the Oil & Gas industry. My contributions range from numerical methods to a variety of statistical analysis.
+
+<!-- ![A Lovely Image](images/avatar.jpg){.lightbox} -->
+I'm an individual who enjoys making a difference at the technical level but also as a group member. I believe that developing valuable tools and insights is an iterative and collaborative process.
+
+I’m also interested in computational methods to analyze Multiplexed Immunofluorescence image data. Specifically, I’m interested in spatial methods to draw insights from point-process patterns.
+
+<!-- fontawesome https://fontawesome.com/search?o=r&m=free -->
+{{< fa download >}} Download my [cv](martinez-cv.pdf).
+
+
+
+<p></p>
+
+## Professional Experience
+
+{{< fa building >}} Senior Analytics Engineer 
+| Jan 2021 - Present 
+![](images/oxy.svg){width=3%} Occidental Petroleum 
+{{< fa map-pin >}} Houston, Tx
+
+{{< fa building >}} Mathematical Scientist 
+| Sep 2016 - Jan 2021 
+![](images/oxy.svg){width=3%} Occidental Petroleum 
+{{< fa map-pin >}} Houston, Tx
+
+{{< fa building >}} Assistant Professor
+| Sep 2016 - Jan 2021 
+![](images/mercy.svg){width=3%} Mercy College of Health Sciences
+{{< fa map-pin >}} Des Moines, Ia
+
+{{< fa building >}} Graduate Teaching Assistant
+| Aug 2010 – May 2015
+![](images/iastate.svg){width=3%} Iowa State University
+{{< fa map-pin >}} Ames, Ia
+
+## Education
+
+{{< fa graduation-cap >}} PhD in Applied Mathematics | 2010 - 2015  @ Iowa State University
+
+{{< fa graduation-cap >}} BS in Mathematics | 2006 - 2009  @ University of Texas Pan-American
+
+## Interests
+
+{{< fa book >}} Mathematics, Statistics, Programming
+
+{{< fa cloud-sun >}} Tennis, Birds, Music, Fishing
+
+<p></p>
+
+:::
+

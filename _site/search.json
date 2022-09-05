@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "I’m still searching deep inside for the motivation to document things I find interesting and publish them. I’ve found it hard to stay motivated when using other media but Quarto has really impressed me. I began using it at work and it is surprisingly easy to use."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jesús Martínez",
+    "section": "",
+    "text": "Mathematical scientist with professional experience in the Oil & Gas industry. My contributions range from numerical methods to a variety of statistical analysis.\n\nI’m an individual who enjoys making a difference at the technical level but also as a group member. I believe that developing valuable tools and insights is an iterative and collaborative process.\nI’m also interested in computational methods to analyze Multiplexed Immunofluorescence image data. Specifically, I’m interested in spatial methods to draw insights from point-process patterns.\n\n Download my cv.\n\n\n\n\n\n Senior Analytics Engineer | Jan 2021 - Present  Occidental Petroleum  Houston, Tx\n Mathematical Scientist | Sep 2016 - Jan 2021  Occidental Petroleum  Houston, Tx\n Assistant Professor | Sep 2016 - Jan 2021  Mercy College of Health Sciences  Des Moines, Ia\n Graduate Teaching Assistant | Aug 2010 – May 2015  Iowa State University  Ames, Ia\n\n\n\n PhD in Applied Mathematics | 2010 - 2015 @ Iowa State University\n BS in Mathematics | 2006 - 2009 @ University of Texas Pan-American\n\n\n\n Mathematics, Statistics, Programming\n Tennis, Birds, Music, Fishing"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Jesus Martinez",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2022\n\n\nJesus Martinez\n\n\n\n\n\n\nNo matching items"
+  }
+]

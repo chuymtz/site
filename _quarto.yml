@@ -1,0 +1,30 @@
+project:
+  type: website
+  resources:
+    - martinez-cv.pdf
+  output-dir: docs
+
+website:
+  title: "Jesus Martinez"
+  favicon: "images/icon.png"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog.html
+      # - about.qmd
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: twitter
+      #   href: https://twitter.com
+format:
+  html:
+    # theme: [sandstone, _variables.scss]
+    # theme: [sandstone, themes/cyborg.scss]
+    theme: [sandstone, themes/spacelab.scss]
+    # theme: [sandstone, themes/materia.scss]
+    css: styles.css
+
