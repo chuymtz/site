@@ -59,22 +59,22 @@ I’m also interested in computational methods to analyze Multiplexed Immunofluo
 {{< fa building >}} Senior Analytics Engineer 
 | Jan 2021 - Present 
 ![](images/oxy.svg){width=3%} Occidental Petroleum 
-{{< fa map-pin >}} Houston, Tx
+{{< fa map-pin >}} Houston, TX
 
 {{< fa building >}} Mathematical Scientist 
 | Sep 2016 - Jan 2021 
 ![](images/oxy.svg){width=3%} Occidental Petroleum 
-{{< fa map-pin >}} Houston, Tx
+{{< fa map-pin >}} Houston, TX
 
 {{< fa building >}} Assistant Professor
 | Sep 2016 - Jan 2021 
 ![](images/mercy.svg){width=3%} Mercy College of Health Sciences
-{{< fa map-pin >}} Des Moines, Ia
+{{< fa map-pin >}} Des Moines, IA
 
 {{< fa building >}} Graduate Teaching Assistant
 | Aug 2010 – May 2015
 ![](images/iastate.svg){width=3%} Iowa State University
-{{< fa map-pin >}} Ames, Ia
+{{< fa map-pin >}} Ames, IA
 
 ## Education
 
