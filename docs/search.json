@@ -9,9 +9,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Jesus Martinez",
+    "title": "Jesús Martínez",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2022\n\n\nJesus Martinez\n\n\n\n\n\n\nNo matching items"
+    "text": "Notes on Data Structures\n\n\n\n\n\n\n\ndata structures\n\n\nnotes\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nJesus Martinez\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2022\n\n\nJesus Martinez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "I’m still searching deep inside for the motivation to document things I find interesting and publish them. I’ve found it hard to stay motivated when using other media but Quarto has really impressed me. I began using it at work and it is surprisingly easy to use."
+  },
+  {
+    "objectID": "posts/intro-algo-mit/index.html",
+    "href": "posts/intro-algo-mit/index.html",
+    "title": "Notes on Data Structures",
+    "section": "",
+    "text": "I was a little bit bored and while looking looking around youtube I came across a 2020 MIT series on Introduction to Algorithms. The first lecture is pretty basic but the second one features one of my favorite MIT online course intructors: Erik Demaine. So I decided to just type his second lecture on Data Structures using Quarto for practice."
+  },
+  {
+    "objectID": "posts/intro-algo-mit/index.html#api-vs-data-structures",
+    "href": "posts/intro-algo-mit/index.html#api-vs-data-structures",
+    "title": "Notes on Data Structures",
+    "section": "API vs Data Structures",
+    "text": "API vs Data Structures\nFirst thing is to distinguish between an Application Program Interface (API) and a Data Structure\n\n\n\n\n\n\nAPI: Tells you what you want to do.\n\n\n\n\n\n\n\n\n\nData Structure : Tells you how you do it."
   }
 ]

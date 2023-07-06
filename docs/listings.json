@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/intro-algo-mit/index.html",
       "/posts/welcome/index.html"
     ]
   }

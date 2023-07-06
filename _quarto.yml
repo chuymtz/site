@@ -5,7 +5,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Jesus Martinez"
+  title: "Jesús Martínez"
   favicon: "images/icon.png"
   open-graph:
     locale: en_US
