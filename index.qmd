@@ -56,8 +56,13 @@ I’m also interested in computational methods to analyze Multiplexed Immunofluo
 
 ## Professional Experience
 
+{{< fa building >}} ML for Seismic Interpretation Manager
+| Mar 2024 - Present 
+![](images/oxy.svg){width=3%} Occidental Petroleum 
+{{< fa map-pin >}} Houston, TX
+
 {{< fa building >}} Senior Analytics Engineer 
-| Jan 2021 - Present 
+| Jan 2021 - Mar 2024 
 ![](images/oxy.svg){width=3%} Occidental Petroleum 
 {{< fa map-pin >}} Houston, TX
 
